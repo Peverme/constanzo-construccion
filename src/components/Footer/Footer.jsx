@@ -13,21 +13,21 @@ return(
     <div className="modal-content">
       <div className="modal-header">
         <h1 className="modal-title" id="exampleModalLabel">Rellena este formulario y nosotros te contactamos!!!</h1>
-        <button type="button" className="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div className="modal-body">
-        <form action="https://formsubmit.co/carlosconstanzo106@gmail.com" method="POST" autoComplete='off'>
+        <form action="https://formsubmit.co/peverme1995@gmail.com" method="POST" autoComplete='off'>
           <div className='input-group'>
 
-            <input type="text" name="nombre" placeholder="Nombre"/>
-            <input type="tel" name="telefono" placeholder="Teléfono"/>
+            <input type="text" name="name" placeholder="Nombre"/>
+            <input type="tel" name="phone" placeholder="Teléfono"/>
             <input type="email" name="email" placeholder="Correo"/>
-            <input type="text" name="presupuesto" placeholder="Presupuesto"/>
+            <input type="text" name="budget" placeholder="Presupuesto"/>
 
-            <textarea name="mensaje" cols="30" rows="5" placeholder='Mensaje'></textarea>
+            <textarea name="message" cols="30" rows="5" placeholder='Mensaje'></textarea>
             <input className="btn" type="submit" value="Enviar"/>
 
-            <input type="hidden" name='_next' value='https://peverme.github.io/constanzo-construccion/'/>
+            <input type="hidden" name='_next' value='http://localhost:3000/?name=&phone=&email=&budget=&message='/>
             <input type="hidden" name= "_captcha" value="false" />
           </div>
         </form>
