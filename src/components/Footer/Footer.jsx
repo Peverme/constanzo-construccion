@@ -13,7 +13,7 @@ return(
     <div className="modal-content">
       <div className="modal-header">
         <h1 className="modal-title" id="exampleModalLabel">Rellena este formulario y nosotros te contactamos!!!</h1>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        <button type="button" className="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div className="modal-body">
         <form action="https://formsubmit.co/carlosconstanzo106@gmail.com" method="POST" autoComplete='off'>
@@ -27,7 +27,7 @@ return(
             <textarea name="mensaje" cols="30" rows="5" placeholder='Mensaje'></textarea>
             <input className="btn" type="submit" value="Enviar"/>
 
-            <input type="hidden" name='_next' value='http://localhost:3000/?name=&phone=&email=&budget=&message='/>
+            <input type="hidden" name='_next' value='https://peverme.github.io/constanzo-construccion/'/>
             <input type="hidden" name= "_captcha" value="false" />
           </div>
         </form>
