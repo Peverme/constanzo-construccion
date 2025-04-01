@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/constanzo-construccion/static/css/main.1b765773.css",
+    "main.js": "/constanzo-construccion/static/js/main.801427db.js",
+    "static/js/453.48e76a06.chunk.js": "/constanzo-construccion/static/js/453.48e76a06.chunk.js",
+    "static/media/imagen 4.jpg": "/constanzo-construccion/static/media/imagen 4.a192edc943a4697b8cef.jpg",
+    "static/media/imagen 6.jpg": "/constanzo-construccion/static/media/imagen 6.84696f870b29f8ca7f72.jpg",
+    "static/media/ceramica.png": "/constanzo-construccion/static/media/ceramica.4f6fb7634298b8482fc6.png",
+    "static/media/imagen 11.jpg": "/constanzo-construccion/static/media/imagen 11.f89dbb9badfccd8a151f.jpg",
+    "static/media/imagen 7.jpg": "/constanzo-construccion/static/media/imagen 7.70aff00a8d34e9f1561a.jpg",
+    "static/media/imagen 5.jpg": "/constanzo-construccion/static/media/imagen 5.672bc80e16296228b07c.jpg",
+    "static/media/imagen 2.jpg": "/constanzo-construccion/static/media/imagen 2.001d2dfea46bb1f81da1.jpg",
+    "static/media/imagen 3.jpg": "/constanzo-construccion/static/media/imagen 3.780c7768239e36b90937.jpg",
+    "static/media/imagen 10.jpg": "/constanzo-construccion/static/media/imagen 10.b41f31730e80afe6e36d.jpg",
+    "static/media/imagen 1.jpg": "/constanzo-construccion/static/media/imagen 1.05b65268cff9c47dc841.jpg",
+    "static/media/imagen 9.jpg": "/constanzo-construccion/static/media/imagen 9.f29d021ce21a484c91c6.jpg",
+    "static/media/imagen 8.jpg": "/constanzo-construccion/static/media/imagen 8.583c2ad06bd8dd3adcf7.jpg",
+    "static/media/Logo.png": "/constanzo-construccion/static/media/Logo.082b6b7bf4158dc341bb.png",
+    "static/media/soldadura.png": "/constanzo-construccion/static/media/soldadura.dd674768644f338e4ba5.png",
+    "static/media/piscina.png": "/constanzo-construccion/static/media/piscina.e6d71f327b9c28ad71e2.png",
+    "static/media/gasfiteria.png": "/constanzo-construccion/static/media/gasfiteria.cb44aa727947fb5eeadb.png",
+    "static/media/remodelacion.png": "/constanzo-construccion/static/media/remodelacion.62abbbac2ae1754810b3.png",
+    "static/media/electricidad.png": "/constanzo-construccion/static/media/electricidad.2fdf423a0bdee39751c5.png",
+    "index.html": "/constanzo-construccion/index.html",
+    "main.1b765773.css.map": "/constanzo-construccion/static/css/main.1b765773.css.map",
+    "main.801427db.js.map": "/constanzo-construccion/static/js/main.801427db.js.map",
+    "453.48e76a06.chunk.js.map": "/constanzo-construccion/static/js/453.48e76a06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b765773.css",
+    "static/js/main.801427db.js"
+  ]
+}
