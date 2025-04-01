@@ -9,7 +9,7 @@ const AboutUs =() => {
                 <div className='card-texto'>
                     <h2>Quienes Somos</h2>
                     <p>Soy Carlos Constanzo, fundador y único responsable de Constanzo Construcción, una empresa
-                    dedicada a ofrecer servicios de construcción de alta calidad. Con [número] años de 
+                    dedicada a ofrecer servicios de construcción de alta calidad. Con 20 años de 
                     experiencia en el sector, me especializo en proyectos residenciales, garantizando un enfoque 
                     personalizado en cada obra que realizo. Mi prioridad es satisfacer las necesidades de mis 
                     clientes a través de un trabajo minucioso, siempre cumpliendo con los más altos estándares 

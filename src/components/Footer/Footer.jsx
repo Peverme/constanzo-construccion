@@ -16,7 +16,7 @@ return(
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div className="modal-body">
-        <form action="https://formsubmit.co/peverme1995@gmail.com" method="POST" autoComplete='off'>
+        <form action="https://formsubmit.co/carlosconstanzo106@gmail.com" method="POST" autoComplete='off'>
           <div className='input-group'>
 
             <input type="text" name="name" placeholder="Nombre"/>
