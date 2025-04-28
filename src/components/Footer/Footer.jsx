@@ -27,7 +27,7 @@ return(
             <textarea name="message" cols="30" rows="5" placeholder='Mensaje'></textarea>
             <input className="btn" type="submit" value="Enviar"/>
 
-            <input type="hidden" name='_next' value='http://localhost:3000/?name=&phone=&email=&budget=&message='/>
+            <input type="hidden" name='_next' value='https://peverme.github.io/constanzo-construccion/'/>
             <input type="hidden" name= "_captcha" value="false" />
           </div>
         </form>
